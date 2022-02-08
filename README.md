@@ -1,5 +1,5 @@
 # Configure-PySparkWithHbase
-适用于2022年前后的，如何配置单机版的PySpark3.2和Hbase2.4，用于在本地练习操作大数据操作
+适用于2022年前后的，如何配置单机版的PySpark3.2和Hbase2.3，用于在本地练习操作大数据操作
 
 | 运行环境组件 | 使用版本 |
 | --- | --- |
@@ -7,7 +7,7 @@
 | zookeeper | 3.6.3 |
 | hadoop | 3.2.2 |
 | spark | 3.2.0 |
-| hbase | 2.4.8 |
+| hbase | 2.3.7 |
 | python | 3.9.8 |
 
 <br>
